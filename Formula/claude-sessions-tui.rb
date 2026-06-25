@@ -3,8 +3,8 @@ class ClaudeSessionsTui < Formula
 
   desc "Terminal UI for browsing Claude Code sessions from jsonl files"
   homepage "https://github.com/lyzlov-twelve/claude-sessions-tui"
-  url "https://github.com/lyzlov-twelve/claude-sessions-tui/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9dca2866386e332bfe8b8aa5f795545717906a161d89a47e871390704a361151"
+  url "https://github.com/lyzlov-twelve/claude-sessions-tui/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "0021f67b48290921721868094c5fc1eabbae8b14cadfb16d3ececcdea61e1e5a"
   license "MIT"
 
   depends_on "python@3.13"
