@@ -7,7 +7,7 @@ class ClaudeSessionsTui < Formula
   sha256 "9dca2866386e332bfe8b8aa5f795545717906a161d89a47e871390704a361151"
   license "MIT"
 
-  depends_on "python@3.14"
+  depends_on "python@3.13"
 
   resource "linkify-it-py" do
     url "https://files.pythonhosted.org/packages/2e/c9/06ea13676ef354f0af6169587ae292d3e2406e212876a413bf9eece4eb23/linkify_it_py-2.1.0.tar.gz"
